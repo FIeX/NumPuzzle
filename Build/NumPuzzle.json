@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "NumPuzzle.data.unityweb",
+"asmCodeUrl": "NumPuzzle.asm.code.unityweb",
+"asmMemoryUrl": "NumPuzzle.asm.memory.unityweb",
+"asmFrameworkUrl": "NumPuzzle.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
